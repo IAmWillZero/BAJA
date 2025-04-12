@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# Excel temporary files
+~$*.xlsx
+
+# Generated files
+solicitudes_generadas/
+
+# IDE
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# imagenes  y datos de entrada carpeta de images y contenido 
+imagenes/
+Datos.xlsx
